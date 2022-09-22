@@ -1,0 +1,14 @@
+E:\ICS4U\Assignments\Portfolio\MP1\MP1\bin\Debug\MP1.exe.config
+E:\ICS4U\Assignments\Portfolio\MP1\MP1\bin\Debug\MP1.exe
+E:\ICS4U\Assignments\Portfolio\MP1\MP1\bin\Debug\MP1.pdb
+E:\ICS4U\Assignments\Portfolio\MP1\MP1\obj\Debug\MP1.csprojAssemblyReference.cache
+E:\ICS4U\Assignments\Portfolio\MP1\MP1\obj\Debug\MP1.csproj.CoreCompileInputs.cache
+E:\ICS4U\Assignments\Portfolio\MP1\MP1\obj\Debug\MP1.exe
+E:\ICS4U\Assignments\Portfolio\MP1\MP1\obj\Debug\MP1.pdb
+D:\ICS4U\Assignments\Portfolio\MP1\MP1\bin\Debug\MP1.exe.config
+D:\ICS4U\Assignments\Portfolio\MP1\MP1\bin\Debug\MP1.exe
+D:\ICS4U\Assignments\Portfolio\MP1\MP1\bin\Debug\MP1.pdb
+D:\ICS4U\Assignments\Portfolio\MP1\MP1\obj\Debug\MP1.csproj.CoreCompileInputs.cache
+D:\ICS4U\Assignments\Portfolio\MP1\MP1\obj\Debug\MP1.exe
+D:\ICS4U\Assignments\Portfolio\MP1\MP1\obj\Debug\MP1.pdb
+D:\ICS4U\Assignments\Portfolio\MP1\MP1\obj\Debug\MP1.csprojResolveAssemblyReference.cache
